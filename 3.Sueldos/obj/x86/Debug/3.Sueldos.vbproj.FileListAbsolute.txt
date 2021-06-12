@@ -1,0 +1,41 @@
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\obj\x86\Debug\_3.Sueldos.Sueldos.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\obj\x86\Debug\_3.Sueldos.Resources.resources
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\obj\x86\Debug\3.Sueldos.vbproj.GenerateResource.Cache
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\bin\Debug\3.Sueldos.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\bin\Debug\3.Sueldos.pdb
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\bin\Debug\3.Sueldos.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\obj\x86\Debug\3.Sueldos.exe
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\obj\x86\Debug\3.Sueldos.xml
+C:\Users\Ferchabbita\AppData\Local\Temporary Projects\3.Sueldos\obj\x86\Debug\3.Sueldos.pdb
+E:\Ferchabbita\Escritorio\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.exe
+E:\Ferchabbita\Escritorio\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.xml
+E:\Ferchabbita\Escritorio\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.pdb
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.exe
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.xml
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.pdb
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.exe
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.pdb
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.xml
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\_3.Sueldos.Sueldos.resources
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\_3.Sueldos.Resources.resources
+F:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.vbproj.GenerateResource.Cache
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.exe
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.xml
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.pdb
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.exe
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.pdb
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.xml
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\_3.Sueldos.Sueldos.resources
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\_3.Sueldos.Resources.resources
+E:\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.vbproj.GenerateResource.Cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.pdb
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\bin\Debug\3.Sueldos.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.vbprojAssemblyReference.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\_3.Sueldos.Sueldos.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\_3.Sueldos.Resources.resources
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.vbproj.GenerateResource.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.vbproj.CoreCompileInputs.cache
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.exe
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.xml
+D:\Backup\ISFT 172\1ro\Ejercicios EDI\3.Sueldos\3.Sueldos\obj\x86\Debug\3.Sueldos.pdb
